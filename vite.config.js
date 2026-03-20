@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
     host: true, // VERY IMPORTANT
-    allowedHosts: [
+    allowedHosts: [ 
       'unevasive-wryly-macie.ngrok-free.dev',
       '.ngrok-free.dev',
     ],
