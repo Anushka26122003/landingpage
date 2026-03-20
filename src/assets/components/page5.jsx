@@ -32,7 +32,7 @@ function Page5() {
   return (
     <div className="flex flex-col md:flex-row items-center px-4 sm:px-8 md:px-12">
       <div className="flex justify-center w-full md:w-auto">
-        <img src="public/pana.png" alt="pana" className="m-6 sm:m-12 md:m-30 w-64 sm:w-80 md:w-auto" />
+        <img src="/pana.png" alt="pana" className="m-6 sm:m-12 md:m-30 w-64 sm:w-80 md:w-auto" />
       </div>
       <div className="max-w-3xl flex flex-col gap-4 text-center md:text-left">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black/70">

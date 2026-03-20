@@ -85,12 +85,12 @@ function Page2() {
       </div>
 
       <div className="grid grid-cols-3 sm:grid-cols-6 mt-10 sm:mt-15 mx-4 sm:mx-10">
-        <img src="public/Logo2.png" alt="pic1" className="h-8 sm:h-10 object-contain w-full" />
-        <img src="public/Logo3.png" alt="pic2" className="h-8 sm:h-10 object-contain w-full" />
-        <img src="public/Logo4.png" alt="pic3" className="h-8 sm:h-10 object-contain w-full" />
-        <img src="public/Logo5.png" alt="pic4" className="h-8 sm:h-10 object-contain w-full" />
-        <img src="public/Logo (9).png" alt="pic6" className="h-8 sm:h-10 object-contain w-full" />
-        <img src="public/Logo (10).png" alt="pic7" className="h-8 sm:h-10 object-contain w-full" />
+        <img src="/Logo2.png" alt="pic1" className="h-8 sm:h-10 object-contain w-full" />
+        <img src="/Logo3.png" alt="pic2" className="h-8 sm:h-10 object-contain w-full" />
+        <img src="/Logo4.png" alt="pic3" className="h-8 sm:h-10 object-contain w-full" />
+        <img src="/Logo5.png" alt="pic4" className="h-8 sm:h-10 object-contain w-full" />
+        <img src="/Logo (9).png" alt="pic6" className="h-8 sm:h-10 object-contain w-full" />
+        <img src="/Logo (10).png" alt="pic7" className="h-8 sm:h-10 object-contain w-full" />
       </div>
 
       <div className="mt-10">

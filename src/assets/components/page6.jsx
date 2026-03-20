@@ -72,7 +72,7 @@ function Page6() {
     <div className="flex flex-col md:flex-row items-center gap-8 md:gap-30 px-4 sm:px-8 md:px-12">
       <div className="flex justify-center w-full md:w-auto">
         <img
-          src="public/page6pic.jpg"
+          src="/page6pic.jpg"
           alt="pana"
           className="m-6 sm:m-12 md:m-20 w-64 sm:w-80 md:w-100 h-auto md:h-90 rounded-sm"
         />
@@ -109,7 +109,7 @@ function Page6() {
             <h1 className="font-bold text-xl sm:text-2xl md:text-3xl text-[#4CAF4F]/80 whitespace-nowrap">
               Meet all customers
             </h1>
-            <img src="public/arrowpage6.png" alt="pic1" className="w-10" />
+            <img src="/arrowpage6.png" alt="pic1" className="w-10" />
           </div>
         </div>
       </div>
